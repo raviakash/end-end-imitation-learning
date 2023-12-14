@@ -29,9 +29,5 @@ To use the code:
 2. Follow the Jupyter Notebook for step-by-step instructions on data processing, model creation, training, and evaluation.
 3. To clone this repository, use the following command: git clone https://github.com/raviakash/end-end.imitation-learning.git
 
-## Acknowledgments
-- The code in this repository was developed as part of an assignment or project to simulate autonomous driving using deep learning techniques.
-- Credits to the contributors or original sources of data, libraries, or tutorials used in this project.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
